@@ -1,1 +1,1 @@
-<img src="/src/assets/readmepic.png"/># project23
+<img src="/src/assets/logo.jpeg"/># project23
