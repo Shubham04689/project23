@@ -1,7 +1,7 @@
 import React from 'react'
 import './Hero.css'
 import AnchorLink from 'react-anchor-link-smooth-scroll'
-import logo from "../../assets/logo_p1.jpg"
+import logo from "../../assets/logo_p11.jpg"
 import resume from "../../assets/Shubham-Kumar.pdf"
 
 const resumeHandler=()=>{
