@@ -2,7 +2,7 @@ import React from 'react'
 import './Hero.css'
 import AnchorLink from 'react-anchor-link-smooth-scroll'
 import logo from "../../assets/logo_p11.jpg"
-import resume from "../../assets/Shubham-Kumar.pdf"
+import resume from "../../assets/Kumar-Shubham.pdf"
 
 const resumeHandler=()=>{
   const link = document.createElement('a');
